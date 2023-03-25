@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sophie-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-25T19:16:26.4311524-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 4ede2314671514f3b7459f2c3de46c0894db6afe145b3cd0fbae821fdd2e05d1
+    name: sophie-chart
+    type: application
+    urls:
+    - https://github.com/nmatip/sophie-helm.git/sophie-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-25T19:16:26.4259124-04:00"
